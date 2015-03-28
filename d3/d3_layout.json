@@ -1,0 +1,28 @@
+{
+ 	"id" : 5,
+   "name": "Farmer suicides",
+   "children": [
+    {
+      "id": 1,
+     "name": "Stadiums",
+		"children": null
+    },
+    {
+	"id" : 2,
+     "name": "Terrorist Attacks",
+     "children":null
+    },
+    {
+	"id": 3,
+     "name": "Natural Disasters",
+		"children": null
+    },
+    {
+	"id": 4,
+     "name": "Industrial Disasters",
+		"children": null
+    }
+
+   ]
+
+}
