@@ -15,6 +15,7 @@ Contains code for responding to html form, retrieving data from databases, calcu
 ---------------------------------------------------------------------------------------------------------------------------
 
 ##Immediate To-Do list--
+####0.Adding comments to code and renaming method names and variables to be suitable to their purpose.
 ####1.Randomize comparisons-
 Remove event input field in html form. When user enters his location, a comparison to a random event must be made instead of him having to select a class( terror attacks, stadiums etc.).
 ####2.Upvotes/Downvotes-
